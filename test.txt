@@ -1,2 +1,6 @@
 branch1
+<<<<<<< HEAD
 add a line from local
+=======
+add a line from server
+>>>>>>> c01d1ac2600c92d7c34b289042c249ba19c20610
